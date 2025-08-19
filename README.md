@@ -1,25 +1,22 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Политика конфиденциальности – MindFlash</title>
+    <title>Privacy Policy – MindFlash</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-        body { font-family: sans-serif; line-height: 1.6; padding: 20px; }
-        h1 { color: #333; }
-    </style>
+
 </head>
 <body>
-    <h1>Политика конфиденциальности – MindFlash</h1>
+    <h1>Privacy Policy – MindFlash</h1>
     <p>
-        MindFlash не собирает, не хранит и не передает никакие персональные данные.
+        MindFlash does not collect, store, or share any personal data.
     </p>
     <p>
-        Все аффирмации, добавленные пользователем, хранятся только на устройстве и никогда не загружаются на внешние серверы.
-        Приложение не требует регистрации пользователя и не использует аналитические или трекинговые сервисы.
+        All affirmations added by the user are stored only on the device and are never uploaded to external servers.
+        The application does not require user registration and does not use any analytics or tracking services.
     </p>
     <p>
-        Если у вас есть вопросы, пожалуйста, свяжитесь с нами: mindflashapp@gmail.com
+        If you have any questions, please contact us: mindflashapp@gmail.com
     </p>
 </body>
 </html>
